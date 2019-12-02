@@ -26,4 +26,4 @@ The goal of the Open Bitcoin Privacy Project is to facilitate the creation of su
 
 Press enquiries may be emailed to contact [at] open bitcoin privacy project [dot] org.
 
-An 800×800 pixel version of our logo can be downloaded [here](obpp800x800.png) (transparent background) or here (white background), and is welcome for use in publications.
+An 800×800 pixel version of our logo can be downloaded [here](img/obpp800x800.png) (transparent background), and is welcome for use in publications.
