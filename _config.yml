@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: My website
+title: Open Bitcoin Privacy Project
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Accelerating Progress to Our Financial Future
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -20,7 +20,13 @@ description: A virtual proof that I'm awesome
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About OBPP: "about"
+  Connect: "connect"
+  Projects:
+    - OBPP Top Threats: "https://github.com/OpenBitcoinPrivacyProject/top-threats"
+    - Wallet Ratings: "https://github.com/OpenBitcoinPrivacyProject/wallet-ratings"
+    - BIP69 Test: "https://github.com/OpenBitcoinPrivacyProject/bip69-test"
+  Learn
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -60,7 +66,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Open Bitcoin Privacy Project
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -68,10 +74,8 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  github: openbitcoinprivacyproject
+  twitter: obpp_org
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -93,7 +97,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+#url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
