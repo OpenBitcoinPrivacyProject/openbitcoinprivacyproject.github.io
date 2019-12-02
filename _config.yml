@@ -21,7 +21,6 @@ description: Accelerating Progress to Our Financial Future
 # List of links in the navigation bar
 navbar-links:
   About OBPP: "about"
-  Connect: "connect"
   Projects:
     - OBPP Top Threats: "https://github.com/OpenBitcoinPrivacyProject/top-threats"
     - Wallet Ratings: "https://github.com/OpenBitcoinPrivacyProject/wallet-ratings"
