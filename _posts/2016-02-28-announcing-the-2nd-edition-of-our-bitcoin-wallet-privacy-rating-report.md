@@ -5,7 +5,8 @@ title: Announcing the 2nd Edition of our Bitcoin Wallet Privacy Rating Report
 
 [Download the report now (PDF)](https://raw.githubusercontent.com/OpenBitcoinPrivacyProject/wallet-ratings/master/report-02/OBPP%20Bitcoin%20Wallet%20Privacy%20Rating%20Report%202nd%20Edition%20-%20March%202016.pdf)
 
-This is my first post, how exciting!
+![Multibit](/img/multibithd.webp)
+![Methodology](/img/methodology.webp)
 
 Since our first report surveying user privacy in Bitcoin wallets, not much has changed for wallet providers. Thankfully, we’re seeing newcomers consistently adopt an HD architecture to help users avoid address reuse, but many of the big privacy pushes during 2014 — such as “stealth” addresses and Tor support — stalled out during 2015. Wallets seem to be mostly in a holding pattern, waiting for their competitors to take the lead on innovating.
 
